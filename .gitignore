@@ -9,7 +9,7 @@ build/
 dist/
 .tox/
 nosetests.xml
-env*/
+venv*/
 tmp/
 Data.fs*
 *.sublime-project
